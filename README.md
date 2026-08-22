@@ -29,4 +29,4 @@ En caso de que un(a) alumno(a) viole la licencia de distribución del material y
 
 
 ---
-### Facultad de Ingeniería, UNAM - Semestre 2026-2
+### Facultad de Ingeniería, UNAM - Semestre 2027-1
